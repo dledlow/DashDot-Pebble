@@ -1,0 +1,47 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "flyingmoustache@gmail.com",
+    "longName": "DashDot",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/radko.png",
+                "name": "RADKO",
+                "type": "png"
+            },
+            {
+                "file": "images/ov.png",
+                "name": "OV",
+                "type": "png"
+            },
+            {
+                "file": "images/pennapps_platypus2.png",
+                "name": "PLATYPUS2",
+                "type": "png"
+            },
+            {
+                "file": "images/pennapps_platypus.png",
+                "name": "PLATYPUS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "DashDot",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "264d708e-e2ec-4e47-9ffa-36c15e0ad2f1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
